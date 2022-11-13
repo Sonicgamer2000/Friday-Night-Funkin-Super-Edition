@@ -1,14 +1,17 @@
 # Friday Night Funkin' - Psych Engine
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
+# Friday Night Funkin' - Super Edition
+The mod originally by Sonicgamer2000 (https://gamebanana.com/mods/297507), made as a Sonic 3 A.I.R Mod a year ago.
+
 ## Installation:
-You must have [the most up-to-date version of Haxe](https://haxe.org/download/), seriously, stop using 4.1.5, it misses some stuff.
+You must have [the most up-to-date version of Haxe](https://haxe.org/download/), but you already knew that didn't you?
 
 Follow a Friday Night Funkin' source code compilation tutorial, after this you will need to install LuaJIT.
 
 To install LuaJIT do this: `haxelib git linc_luajit https://github.com/nebulazorua/linc_luajit` on a Command prompt/PowerShell
 
-...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml
+...Or if you don't want your mod to be able to run .lua scripts, delete the "LUA_ALLOWED" line on Project.xml. But like who doesn't want the lua scripts?
 
 
 If you get an error about StatePointer when using Lua, run `haxelib remove linc_luajit` into Command Prompt/PowerShell, then re-install linc_luajit.
@@ -17,10 +20,13 @@ If you want video support on your mod, simply do `haxelib install hxCodec` on a 
 
 otherwise, you can delete the "VIDEOS_ALLOWED" Line on Project.xml
 
-## Credits:
+## Engine Credits:
 * Shadow Mario - Programmer
 * RiverOaken - Artist
 * Yoshubs - Assistant Programmer
+
+## Mod Credits:
+* Sonicgamer2000 - The modder who made the original mod
 
 ### Special Thanks
 * bbpanzu - Ex-Programmer
