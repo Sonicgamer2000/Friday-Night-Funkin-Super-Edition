@@ -2,7 +2,7 @@
 Engine originally used on [Mind Games Mod](https://gamebanana.com/mods/301107), intended to be a fix for the vanilla version's many issues while keeping the casual play aspect of it. Also aiming to be an easier alternative to newbie coders.
 
 # Friday Night Funkin' - Super Edition
-The mod originally by Sonicgamer2000 (https://gamebanana.com/mods/297507), made as a Sonic 3 A.I.R Mod a year ago.
+Originally made from a mod named [Super Edition](https://gamebanana.com/mods/297507), [Sonicgamer2000](https://twitter.com/Sonicgamer2000) made that an fnf mod.
 
 ## Installation:
 You must have [the most up-to-date version of Haxe](https://haxe.org/download/), but you already knew that didn't you?
